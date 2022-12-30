@@ -1,3 +1,5 @@
+## Hello, Friend
+
 # 💫 About Me:
 🔭 I currently work with back-end development;<br>🤝 I'm looking for tips for software architecture;<br>🌱 I'm currently learning ASP.NET and .NET with MVC;<br>👨🏻‍💻 I intend to become a Full Cycle Developer;<br>⚡ Curiosity I recently migrated from Data Engineering to Back-End.
 
@@ -15,4 +17,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rderoncio&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+## Goodbye, Friend
