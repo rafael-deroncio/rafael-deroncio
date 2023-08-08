@@ -25,4 +25,4 @@ I'm passionate about technology and love working on challenging projects that in
 
 ---
 
-#### ***<p style="text-align: center;">O BUG força o programa a se adaptar, envolve-se em algo novo por causa disso. Funciona ao redor e dentro. Não importa o que aconteça ele muda, ele se torna algo novo.</p>***
+#### ***<p style="text-align: center;">The BUG forces the program to adapt, immersing itself in something new because of it. It works around and within. No matter what happens, it changes; it becomes something new.</p>***
