@@ -1,8 +1,13 @@
 # <p style="text-align: center;">Hello, Friend</p>
 
+## 👨🏻‍💻 About Me:
+I'm passionate about technology and love working on challenging projects that involve data engineering and backend development. My primary expertise lies in Python, where I utilize my skills to work with data and develop robust data engineering solutions.
 
-## About Me:
-🔭 I currently work with back-end development;<br>🤝 I'm looking for tips for software architecture;<br>🌱 I'm currently learning ASP.NET and .NET with MVC;<br>👨🏻‍💻 I intend to become a Full Cycle Developer;<br>⚡ Curiosity I recently migrated from Data Engineering to Back-End.
+## ⚡ Technical Skills
+
+- **Data Engineering:** My main skill lies in Python programming for data analysis, processing, and manipulation. I frequently work with databases like MySQL, PostgreSQL, Oracle Database, and MariaDB, creating efficient pipelines to extract, transform, and load data.
+- **Backend Development:** I have experience in backend application development using C# and .NET. I work with ASP.NET Core to build Web APIs and also have experience in event-driven architectures with messaging for microservices.
+
 
 
 ## 🌐 Socials:
