@@ -1,17 +1,19 @@
 # <p style="text-align: center;">Hello, Friend</p>
 
 ## 👨🏻‍💻 About Me:
-I'm passionate about technology and love working on challenging projects that involve data engineering and backend development. My primary expertise lies in Python, where I utilize my skills to work with data and develop robust data engineering solutions.
+I'm passionate about technology and I love working on challenging projects that involve development in general.
 
-## ⚡ Technical Skills
+I worked for 5 years in the area of ​​data engineering using Python as my main language. And with it I delved into its use in environments such as Databricks and Airflow for creating secure and resilient ETL processes and pipelines.
 
-- **Data Engineering:** My main skill lies in Python programming for data analysis, processing, and manipulation. I frequently work with databases like MySQL, PostgreSQL, Oracle Database, and MariaDB, creating efficient pipelines to extract, transform, and load data.
-- **Backend Development:** I have experience in backend application development using C# and .NET. I work with ASP.NET Core to build Web APIs and also have experience in event-driven architectures with messaging for microservices.
+For just over 2 years I've been working as a full stack developer, where I use C# and Typescript as programming languages, based on the .NET and Vue.js frameworks.
 
+In the meantime of development, I have been working on the elaboration, creation, publication and maintenance of APIs and microservices, using AWS and Kubernets as cloud for management.
+
+I always seek to delve into the technologies I'm working on to always keep myself updated.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rderoncio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-deroncio-519b7a236) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rafaelderoncio) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rderoncio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-deroncio-519b7a236)
 
 
 ## 💻 Tech Stack:
